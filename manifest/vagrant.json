@@ -1,6 +1,6 @@
 {
   "name": "vagrant",
-  "latest": "0.18.0",
+  "latest": "0.18.1",
   "versions": {
     "0.18.0": {
       "tag": "vagrant-v0.18.0",
@@ -8,6 +8,15 @@
         "linux-x86_64": {
           "asset": "cxc-backend-vagrant-linux-x86_64",
           "sha256": "d1eca73cb24401467ce843d4a8c625be102e0bde3198c2bbd2bdc0fab4aab295"
+        }
+      }
+    },
+    "0.18.1": {
+      "tag": "vagrant-v0.18.1",
+      "platforms": {
+        "linux-x86_64": {
+          "asset": "cxc-backend-vagrant-linux-x86_64",
+          "sha256": "a3fa253ba1c1b7cdc4f1bb607ad097a65f94438c05f99c1d8040ea2f1d19adab"
         }
       }
     }

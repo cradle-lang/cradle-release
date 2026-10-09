@@ -1,6 +1,6 @@
 {
   "name": "sphere",
-  "latest": "0.19.2",
+  "latest": "0.19.3",
   "versions": {
     "0.18.0": {
       "tag": "sphere-v0.18.0",
@@ -44,6 +44,15 @@
         "linux-x86_64": {
           "asset": "cxc-backend-sphere-linux-x86_64",
           "sha256": "6d263074669a8dfe18563d4fd1ee7221f17a4a950d24bbc7fb36d9f421c66ecf"
+        }
+      }
+    },
+    "0.19.3": {
+      "tag": "sphere-v0.19.3",
+      "platforms": {
+        "linux-x86_64": {
+          "asset": "cxc-backend-sphere-linux-x86_64",
+          "sha256": "d55f81d40fbf4cde29bfb95d9290d616d9e2b0ef53bdac755087ff9c248972be"
         }
       }
     }
